@@ -7,4 +7,6 @@ HTML (Hyper Text Markup Language) yaitu Bahasa pemrograman standar yang digunaka
 ## Latihan
 |No | Tanggal | Judul | Akses Cepat |
 |--------|--------|--------|--------|
-|1|15 September 2023| Latihan 1|[Here](latihan-1.html) |
+|1|15 September 2023| Latihan 1|[Here](latihanPertemuan-1.html) |
+|2|24 September 2023| Latihan 2|[Here](latihanPertemuan-2_1.html) |
+|3|24 September 2023| Latihan 2|[Here](latihanPertemuan-2_2.html) |
